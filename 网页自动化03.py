@@ -33,6 +33,9 @@ driver.find_element_by_xpath("//form[@id='cf']//input[@value='View Calendar']").
 
 time.sleep(10)
 driver.quit()
+# selenium go to pypi(by google search engine)
+# install selenium first then use this momodel
+# hope you like this
 
 
 
