@@ -15,7 +15,7 @@
 # driver.find_element_by_xpath("//input[@value='View Calendar']").click()
 from selenium import webdriver
 from selenium.webdriver.support.select import Select
-import time
+import
 
 driver=webdriver.Chrome("F:\chromedriver.exe")
 driver.fullscreen_window()
@@ -36,6 +36,6 @@ driver.quit()
 # selenium go to pypi(by google search engine)
 # install selenium first then use this momodel
 # hope you like this
-
+#
 
 
