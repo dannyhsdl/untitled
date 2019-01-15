@@ -13,9 +13,7 @@
 # countries.select_by_visile_text('Taiwan')
 #
 # driver.find_element_by_xpath("//input[@value='View Calendar']").click()
-from selenium import webdriver
-from selenium.webdriver.support.select import Select
-import
+import time
 
 driver=webdriver.Chrome("F:\chromedriver.exe")
 driver.fullscreen_window()
